@@ -1,5 +1,8 @@
 # Laura Corrêa — LP Trabalhista
 
+## Atualização — 24/09/2026
+Incluídos na seção sobre a advogada, conforme mensagem da cliente enviada pelo usuário: pós-graduação pela PUC/COGEAE-SP, título de especialista obtido em 2007, atuação em Departamento Pessoal desde 2000 nos setores de comércio, saúde, metalurgia, mecânica e prestação de serviços. Não equiparar a experiência em Departamento Pessoal a advocacia desde 2000 nem inventar o nome do curso. Layout conferido em 320, 390 e 1440 px sem overflow; destinos WhatsApp preservados.
+
 Primeira versão criada em 21/09/2026. Projeto estático independente; não modifica a LP de família.
 
 ## Dados e ativos
